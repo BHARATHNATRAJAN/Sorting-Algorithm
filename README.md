@@ -69,8 +69,10 @@ print(result)
 ```
 
 ## Output:
-![output](/output1.png)
-![output](/output2.png)
+![output1](https://github.com/BHARATHNATRAJAN/Sorting-Algorithm/assets/147473529/32f9414f-dfa9-47ab-96d0-d46b3e1466b5)
+
+![output2](https://github.com/BHARATHNATRAJAN/Sorting-Algorithm/assets/147473529/9d7ebaf4-319d-4d40-b67e-4ca82a15c457)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
